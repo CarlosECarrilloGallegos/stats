@@ -1,2 +1,4 @@
 # stats
- Python package for statistics functions
+ Python package for statistics functions.
+
+ -- Carlos ECG
